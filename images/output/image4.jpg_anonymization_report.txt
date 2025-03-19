@@ -1,0 +1,5 @@
+Anonymization Report:
+k-Anonymity: 4
+l-Diversity: 3
+t-Closeness: 0.4139166205093433
+δ-Disclosure Privacy: 0.17316575990238875
